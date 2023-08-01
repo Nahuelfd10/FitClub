@@ -1,35 +1,58 @@
-.header{
-    display: flex;
-    justify-content: space-between;
+.header {
+  display: flex;
+  justify-content: space-between;
 }
 
-.logo{
-    width: 10rem;
-    height: 3rem;
+.logo {
+  width: 10rem;
+  height: 3rem;
 }
 
-.header-menu{
-    list-style-type: none;
-    display: flex;
-    gap: 2rem;
-    color: white;
+.menu {
+  display: none;
+  background: "var(--appColor)";
+  padding: 0.5rem;
+  border-radius: 5px;
 }
 
-.header-menu>li:hover {
-    color: var(--orange);
-    cursor: pointer;
+.menuMobile {
+  cursor: pointer;
+}
+
+.header-menu {
+  list-style-type: none;
+  display: flex;
+  gap: 2rem;
+  color: white;
+}
+
+.header-menu > li:hover {
+  color: var(--orange);
+  cursor: pointer;
 }
 
 @media screen and (max-width: 768px) {
-    .header>:nth-child(2){
-        position: fixed;
-        right: 2rem;
-        z-index: 99;
-    }
-    .header-menu{
-        flex-direction: column;
-        background-color: var(--appColor);
-        padding: 2rem;
-    }
+  .header > :nth-child(2) {
+    position: fixed;
+    right: 2rem;
+    z-index: 99;
+  }
+  .header-menu {
+    display: none;
+    flex-direction: column;
+    background-color: var(--appColor);
+    padding: 2rem;
+    top: 41px;
+    position: fixed;
+    right: 2rem;
+    z-index: 99;
+  }
 
+  .menu {
+    display: block;
+  }
+
+  .responsive {
+    display: flex;
+  }
 }
