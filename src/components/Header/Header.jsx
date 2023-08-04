@@ -14,7 +14,7 @@ const Header = () => {
   };
   return (
     <div className="header">
-      <img src={Logo} alt="" className="logo" />
+      <img src="https://iili.io/HtFALoN.png" alt="" className="logo" />
       <div
         className="menu"
         style={{
