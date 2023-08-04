@@ -87,18 +87,18 @@ const Hero = () => {
           transition={transition}
           className="heart-rate"
         >
-          <img src={Heart} alt="" />
+          <img src="https://iili.io/HtFAuFn.png" alt="" />
           <span>Ritmo cardíaco</span>
           <span>116 bpm</span>
         </motion.div>
 
         {/* hero images */}
-        <img src={hero_image} alt="" className="hero-image" />
+        <img src="https://iili.io/HtFA79f.png" alt="" className="hero-image" />
         <motion.img
           initial={{ right: "11rem" }}
           whileInView={{ right: "20rem" }}
           transition={transition}
-          src={hero_image_back}
+          src="https://iili.io/HtFAR8G.png"
           alt=""
           className="hero-image-back"
         />
@@ -110,7 +110,7 @@ const Hero = () => {
           transition={transition}
           className="calories"
         >
-          <img src={Calories} alt="" />
+          <img src="https://iili.io/HtFEbLb.png" alt="" />
           <div>
             <span>Calorías quemadas</span>
             <span>220 kcal</span>

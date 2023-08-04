@@ -27,7 +27,7 @@ const Header = () => {
       >
         {/* icono */}
         <img
-          src={isIconClose ? CloseIcon : Bars}
+          src={isIconClose ? "https://iili.io/HtFAnZN.png" : Bars}
           alt=""
           style={{
             width: "1.5rem",

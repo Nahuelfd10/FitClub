@@ -15,18 +15,18 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={Instagram} alt="" />
+            <img src="https://iili.io/HtFAh9j.png" alt="" />
           </a>
           <a
             href="https://wa.me/5492262317841?text=%22%C2%A1Hola!%20Estoy%20interesado/a%20en%20conocer%20m%C3%A1s%20sobre%20tus%20servicios%20de%20entrenamiento.%20%C2%BFPodr%C3%ADas%20proporcionarme%20m%C3%A1s%20informaci%C3%B3n?%22"
             target="_blank"
             rel="noreferrer"
           >
-            <img src={whatsappIcon} alt="WhatsApp" />
+            <img src="https://iili.io/HtFAbln.png" alt="WhatsApp" />
           </a>
         </div>
         <div className="logo-f">
-          <img src={Logo} alt="" />
+          <img src="https://iili.io/HtFALoN.png" alt="" />
         </div>
       </div>
       <div className="blur blur-f-1"></div>

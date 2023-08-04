@@ -59,7 +59,7 @@ const Testimonials = () => {
                 ? setSelected(tLength - 1)
                 : setSelected((prev) => prev - 1);
             }}
-            src={leftArrow}
+            src="https://iili.io/HtFAjAx.png"
             alt=""
           />
           <img
@@ -68,7 +68,7 @@ const Testimonials = () => {
                 ? setSelected(0)
                 : setSelected((prev) => prev + 1);
             }}
-            src={rightArrow}
+            src="https://iili.io/HtFA6Av.png"
             alt=""
           />
         </div>

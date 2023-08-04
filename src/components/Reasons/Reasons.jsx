@@ -10,10 +10,10 @@ const Reasons = () => {
   return (
     <div className="Reasons" id="reasons">
       <div className="left-r">
-        <img src={image1} alt="" />
-        <img src={image2} alt="" />
-        <img src={image3} alt="" className="img3" />
-        <img src={image4} alt="" />
+        <img src="https://iili.io/HtFAawl.jpg" alt="" />
+        <img src="https://iili.io/HtFAct2.jpg" alt="" />
+        <img src="https://iili.io/HtFAEP9.jpg" alt="" className="img3" />
+        <img src="https://iili.io/HtFAVcu.jpg" alt="" />
       </div>
       <div className="right-r">
         <span>Acerca de mi</span>
@@ -24,23 +24,23 @@ const Reasons = () => {
 
         <div className="details-r">
           <div>
-            <img src={tick} alt="" />
+            <img src="https://iili.io/HtFAitp.png" alt="" />
             <span>+10 años de experiencia</span>
           </div>
           <div>
-            <img src={tick} alt="" />
+            <img src="https://iili.io/HtFAitp.png" alt="" />
             <span>Programas 100% personalizados</span>
           </div>
           <div>
-            <img src={tick} alt="" />
+            <img src="https://iili.io/HtFAitp.png" alt="" />
             <span>Seguimientos diarios</span>
           </div>
           <div>
-            <img src={tick} alt="" />
+            <img src="https://iili.io/HtFAitp.png" alt="" />
             <span>+1000 clientes asesorados</span>
           </div>
           <div>
-            <img src={tick} alt="" />
+            <img src="https://iili.io/HtFAitp.png" alt="" />
             <span>Alimentacion flexible</span>
           </div>
         </div>
