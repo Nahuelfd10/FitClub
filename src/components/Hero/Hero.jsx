@@ -1,10 +1,6 @@
 import React from "react";
 import Header from "../Header/Header";
 import "./Hero.css";
-import hero_image from "../../assets/hero_image.png";
-import hero_image_back from "../../assets/hero_image_back.png";
-import Heart from "../../assets/heart.png";
-import Calories from "../../assets/calories.png";
 import { motion } from "framer-motion";
 import NumberCounter from "number-counter";
 import { Link } from "react-scroll";
@@ -74,7 +70,7 @@ const Hero = () => {
             <button className="btn">Comenzá ahora</button>
           </a>
           <Link to="testimonios" spy={true} smooth={true}>
-            <buttons className="btn second-btn">Ver cambios</buttons>
+            <button className="btn second-btn">Ver cambios</button>
           </Link>
         </div>
       </div>

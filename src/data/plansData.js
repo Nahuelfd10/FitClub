@@ -1,5 +1,6 @@
 export const plansData = [
   {
+    id: 1,
     icon: (
       <svg
         width="15"
@@ -11,7 +12,8 @@ export const plansData = [
       </svg>
     ),
     name: "QUEMAR GRASA Y TONIFICAR",
-    price: "9.980",
+    /* price: "9.980", */
+    price: "18",
     features: [
       "Rutina Personalizada",
       "Plan de comidas Personalizado",
@@ -23,6 +25,7 @@ export const plansData = [
       "¡Hola! 🙌 Me interesa el plan de quemar grasa y tonificar. ¿Cuándo podemos empezar? 🏋️‍♂️💪",
   },
   {
+    id: 2,
     icon: (
       <svg
         width="28"
@@ -34,7 +37,8 @@ export const plansData = [
       </svg>
     ),
     name: "PLAN PERSONALIZADO ELITE + COACHING",
-    price: "19.980",
+    /* price: "19.980", */
+    price: "28",
     features: [
       "Rutina Personalizada",
       "Plan de comidas Personalizado",
@@ -47,6 +51,7 @@ export const plansData = [
       " Hola, ¿cómo estás? 😊 Quiero comenzar con el plan Personalizado Elite + Coaching. ¿Cuál es el siguiente paso? 🏋️‍♂️🏆",
   },
   {
+    id: 3,
     icon: (
       <svg
         width="16"
@@ -58,7 +63,8 @@ export const plansData = [
       </svg>
     ),
     name: "MASA MUSCULAR",
-    price: "9.980",
+    /* price: "9.980", */
+    price: "18",
     features: [
       "Rutina Personalizada",
       "Plan de comidas Personalizado",
