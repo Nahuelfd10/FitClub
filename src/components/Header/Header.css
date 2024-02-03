@@ -47,7 +47,9 @@
     right: 2rem;
     z-index: 99;
   }
-
+  .header {
+    justify-content: center;
+  }
   .menu {
     display: block;
   }

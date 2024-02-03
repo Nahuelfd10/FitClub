@@ -106,6 +106,7 @@
   background-color: transparent;
   width: 7rem;
   border: 2px solid var(--orange);
+  height: 40px;
 }
 
 .right-h > .btn {
@@ -160,7 +161,7 @@
 .hero-image-back {
   position: absolute;
   top: 4rem;
-  right: 20rem;
+  right: 23rem;
   z-index: -1;
   width: 15rem;
 }
@@ -247,6 +248,7 @@
   .heart-rate {
     left: 1rem;
     top: 2rem;
+    background-color: var(--caloryCard);
   }
   .calories {
     position: relative;

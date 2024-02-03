@@ -18,7 +18,7 @@ const Header = () => {
       <div
         className="menu"
         style={{
-          backgroundColor: "var(--appColor)",
+          backgroundColor: "#3C3F45",
           padding: "0.5rem",
           borderRadius: "5px",
           cursor: "pointer",
@@ -31,7 +31,7 @@ const Header = () => {
           alt=""
           style={{
             width: "1.5rem",
-            height: "1.5rem",
+            height: "1.3rem",
             filter: "brightness(0) invert(1)",
           }}
         />
