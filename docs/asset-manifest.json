@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a1c096f.css",
-    "main.js": "/static/js/main.8941ef0d.js",
+    "main.css": "/static/css/main.1bd243f2.css",
+    "main.js": "/static/js/main.0ce30ac0.js",
     "static/media/c-image3.jpeg": "/static/media/c-image3.b5412cb1050cdb0d60ff.jpeg",
     "static/media/c-image1.jpeg": "/static/media/c-image1.baac06045c3ef1d61e1c.jpeg",
     "static/media/c-image2.jpeg": "/static/media/c-image2.66a59dbccb8d2fb91c3c.jpeg",
@@ -12,11 +12,11 @@
     "static/media/CloseIcon.png": "/static/media/CloseIcon.ba59f0270c5437ef2491.png",
     "static/media/MatiasFitCoachNar.png": "/static/media/MatiasFitCoachNar.55720a3d31025a127e7b.png",
     "index.html": "/index.html",
-    "main.3a1c096f.css.map": "/static/css/main.3a1c096f.css.map",
-    "main.8941ef0d.js.map": "/static/js/main.8941ef0d.js.map"
+    "main.1bd243f2.css.map": "/static/css/main.1bd243f2.css.map",
+    "main.0ce30ac0.js.map": "/static/js/main.0ce30ac0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a1c096f.css",
-    "static/js/main.8941ef0d.js"
+    "static/css/main.1bd243f2.css",
+    "static/js/main.0ce30ac0.js"
   ]
 }
